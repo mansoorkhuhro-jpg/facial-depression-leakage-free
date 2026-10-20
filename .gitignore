@@ -1,0 +1,7 @@
+outputs/
+data/
+*.npz
+*.mat
+*.csv
+.ipynb_checkpoints/
+__pycache__/
